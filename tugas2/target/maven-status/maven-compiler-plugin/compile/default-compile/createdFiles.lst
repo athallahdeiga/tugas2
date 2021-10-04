@@ -1,0 +1,6 @@
+com\spboot\tugas2\Tugas2Application.class
+com\spboot\tugas2\interfaces\InventoryInterface.class
+com\spboot\tugas2\repositories\InventoryRepository.class
+com\spboot\tugas2\controllers\MainController.class
+com\spboot\tugas2\services\InventoryService.class
+com\spboot\tugas2\models\Inventory.class
